@@ -4,8 +4,8 @@ I completed a series of five major front-end projects from Udacity's
 Senior Web Developer Nanodegree last year. The first four focused on
 different features of a progressive web app, like offline functionality,
 accessibility, or web notifications. My final project was a culmination
-of all the features to make a full progressive web app (it packs a
-punch :smile:).
+of all the features to make a full progressive web app in vanilla
+JavaScript.
 
 I've been excited about the upcoming web components specification, so I
 chose to use Polymer for my first four projects. Along the way I wrote my
